@@ -1,6 +1,6 @@
 # TaiwanRice-blockchain
 
-![Alt text](https://www.chia.net/img/chia_logo.svg)
+![Alt text](https://avatars.githubusercontent.com/u/87891111?s=96&v=4)
 
 | Current Release/main | Development Branch/dev |
 |         :---:          |          :---:         |
