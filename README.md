@@ -1,6 +1,6 @@
 # TaiwanRice-blockchain
 
-![Alt text](https://avatars.githubusercontent.com/u/87891111?s=96&v=4)
+![Alt text](https://avatars.githubusercontent.com/u/87891111?v=4)
 
 | Current Release/main | Development Branch/dev |
 |         :---:          |          :---:         |
